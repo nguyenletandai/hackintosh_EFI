@@ -10,3 +10,5 @@ Main: Gigabyte B560M Aorus Pro
 VGA: 6600XT Phantom Gaming D
 
 OS Version: MacOS 13.1(ventura)
+
+Opencore Version: 0.8.7
