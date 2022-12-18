@@ -1,5 +1,6 @@
 # hackintosh_EFI
 This is the EFI file for my hackintosh:
+
 Hardware:
 
 CPU: Intel i5 10400F
